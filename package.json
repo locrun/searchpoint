@@ -1,0 +1,12 @@
+{
+  "name": "searchpoint",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
